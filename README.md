@@ -1,4 +1,4 @@
-# ChatGPT Slack Bot
+# GPT3 Slack Bot
 
 This Slack Bot is implemented in Node.js, under the hood it depends on [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api), which uses puppeteer browser as solution to connect with ChatGPT.
 
